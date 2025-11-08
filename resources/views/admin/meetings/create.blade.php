@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Buat Rapat Baru')
+@section('title', 'Bua Rapat Baru')
 
 @section('content')
     <div class="flex items-center justify-between">
