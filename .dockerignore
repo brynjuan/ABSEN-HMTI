@@ -1,0 +1,22 @@
+# Git
+.git
+.gitignore
+
+# Dependensi
+node_modules
+vendor
+
+# File lokal
+.env
+.editorconfig
+README.md
+docker-compose.yml
+
+# Storage & Cache Laravel
+storage/framework/
+storage/logs/
+bootstrap/cache/
+
+# Docker
+.docker/
+Dockerfile
